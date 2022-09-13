@@ -12,6 +12,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background: var(--light-gray);
+}
+
 .orange {
   color: var(--orange);
 }
